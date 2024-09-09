@@ -3,7 +3,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Description
-  Creating a professional Readme for a project.
+  Creating a professional README.
   
   ## Table of Contents
   
@@ -20,7 +20,7 @@
   Inquirer Npm
   
   ## Usage
-  Run index.js file in the command line terminal. You will answer questions from the terminal. The answers will be printed into a README.md file.
+  Run index.js in terminal and answer the questions. The answers will be logged into the README.md file.
   
   ## Credits
   None.
