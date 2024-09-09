@@ -1,9 +1,9 @@
 
-  # fsdkfjhsdkfasf
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  # ReadMe
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Description
-  kasfkdsfaksjfbskd
+  Creating a professional Readme for a project.
   
   ## Table of Contents
   
@@ -17,20 +17,20 @@
       - [Contact](#contact)
   
   ## Installation
-  fkasfhdks
+  Inquirer Npm
   
   ## Usage
-  faskhdfks
+  Run index.js file in the command line terminal. You will answer questions from the terminal. The answers will be printed into a README.md file.
   
   ## Credits
-  asfksnfksf
+  None.
   
   ## License
-  This project is covered under the GNU GPLv3 license.
-  https://www.gnu.org/licenses/gpl-3.0
+  This project is covered under the MIT license.
+  https://opensource.org/licenses/MIT
   
   ## Tests
-  fskafhdksfs
+  None.
   
   ## Questions
   
@@ -38,5 +38,5 @@
   [Github Page](https://www.github.com/nonatale)
   
   ### Contact
-  Reach out to yanggao if there are any questions.
+  Reach out to yanggao413@gmail.com if there are any questions.
       
